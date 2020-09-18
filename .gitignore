@@ -1,5 +1,5 @@
 # My specified files
-data export/*
+Data/*
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
